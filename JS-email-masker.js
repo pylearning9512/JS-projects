@@ -1,5 +1,3 @@
-** start of script.js **
-
 const maskEmail=(email)=>{
 
 //this will store the email service
