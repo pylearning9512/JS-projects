@@ -18,8 +18,8 @@ return maskedEmail
 }
 
 
-let email="apple.pie@example.com"
+let email="apple.pie@uwu.com"
 console.log(maskEmail(email))
 
-** end of script.js **
+
 
